@@ -4,3 +4,9 @@ c:\users\jhryu\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\bin\D
 c:\users\jhryu\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
 c:\users\jhryu\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
 c:\users\jhryu\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+D:\작업장\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\작업장\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+D:\작업장\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+D:\작업장\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+D:\작업장\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\작업장\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
